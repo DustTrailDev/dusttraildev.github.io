@@ -17,7 +17,7 @@ I build gameplay systems in Unreal Engine 5, with a focus on melee combat, enemy
 
 - **BladeFall · Personal melee combat project** · I built C++ components for damage, combos, and difficulty scaling, with delegates connecting them. Designers can tune parry, block, dodge, posture, and stamina in the editor. Boss AI uses Behavior Trees and EQS to switch among patrol, alert, melee, ranged attack, cover, and retreat. Dismemberment provides visual feedback on kills.
 - **Soulslike Combat Framework** · A reusable Unreal Engine combat framework with parry, block, dodge, posture, stamina, and executions. Difficulty settings drive enemy reactions. A walkthrough demo shows how to connect the components, Behavior Tree, and UI. [Fab listing](https://www.fab.com/listings/873ba41d-9900-4683-9fa3-5799bafd0d30)
-- **Assassination System** · C++ stealth-takedown detection using airborne state, horizontal and vertical thresholds, and squared-distance checks. [Source](https://github.com/DustTrailDev/AssassinationSystem)
+- **Assassination System** · Stealth takedown system built in Unreal Engine Blueprints. [Source](https://github.com/DustTrailDev/AssassinationSystem)
 - **Basic Shooting** · Blueprint shooting and reload mechanics with integrated ad monetization. [Source](https://github.com/DustTrailDev/BasicShooting)
 
 ## Project footage
